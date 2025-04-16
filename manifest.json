@@ -12,7 +12,7 @@
       "category": "entertainment",
       "rating": 4.8,
       "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.42664.13510798885735219.3576178f-5830-46af-9837-7194db7781e8.b3e584ef-cdd4-4e1c-ad75-beebd48b7018?q=90&w=177&h=177",
-      "downloadUrl": https://www.dropbox.com/scl/fi/5l3u2dyx0wsq5uxc7ggme/Microsoft.MinecraftUWP_1.21.7301.0_x64__8wekyb3d8bbwe.Appx?rlkey=3fv0w2o2vxl8sr7ntzipw3092&st=8k3kr6w5&dl=1",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/5l3u2dyx0wsq5uxc7ggme/Microsoft.MinecraftUWP_1.21.7301.0_x64__8wekyb3d8bbwe.Appx?rlkey=3fv0w2o2vxl8sr7ntzipw3092&st=8k3kr6w5&dl=1",
       "dependencies": [
         "Microsoft.VCLibs.140.00_x64__8wekyb3d8bbwe"
       ],
