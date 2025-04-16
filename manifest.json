@@ -1,0 +1,125 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-04-10T14:30:00Z",
+  "packages": [
+    {
+      "id": "VLC.VLC_8wekyb3d8bbwe",
+      "name": "VLC Media Player",
+      "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
+      "version": "3.5.0.0",
+      "releaseDate": "2024-12-15",
+      "developer": "VideoLAN",
+      "category": "entertainment",
+      "rating": 4.7,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vlc-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/VLC-3.5.0.0.appx",
+      "dependencies": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vlc-screenshot1.png",
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vlc-screenshot2.png"
+      ]
+    },
+    {
+      "id": "Microsoft.WindowsTerminal_8wekyb3d8bbwe",
+      "name": "Windows Terminal",
+      "description": "The new Windows Terminal, a tabbed command line experience for Windows with multiple shells support including PowerShell, CMD, WSL and more.",
+      "version": "2.0.0.0",
+      "releaseDate": "2025-01-20",
+      "developer": "Microsoft Corporation",
+      "category": "development",
+      "rating": 4.9,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/terminal-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/WindowsTerminal-2.0.0.0.appx",
+      "dependencies": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/terminal-screenshot1.png",
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/terminal-screenshot2.png"
+      ]
+    },
+    {
+      "id": "XPDC2RH70K22MN_8wekyb3d8bbwe",
+      "name": "Notepads",
+      "description": "A modern, lightweight text editor with a minimalist design. Great for quick notes and code editing with syntax highlighting.",
+      "version": "1.5.0.0",
+      "releaseDate": "2025-02-01",
+      "developer": "Jackie Liu",
+      "category": "productivity",
+      "rating": 4.6,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/notepads-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/Notepads-1.5.0.0.appx",
+      "dependencies": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/notepads-screenshot1.png",
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/notepads-screenshot2.png"
+      ]
+    },
+    {
+      "id": "49306atecsolution.RainbowButton_8wekyb3d8bbwe",
+      "name": "Rainbow Button",
+      "description": "A simple color picker tool that stays on top of other windows. Perfect for designers and developers to quickly pick colors.",
+      "version": "2.2.0.0",
+      "releaseDate": "2025-03-15",
+      "developer": "Atec Solution",
+      "category": "utilities",
+      "rating": 4.3,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/rainbowbutton-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/RainbowButton-2.2.0.0.appx",
+      "dependencies": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/rainbowbutton-screenshot1.png"
+      ]
+    },
+    {
+      "id": "Microsoft.Whiteboard_8wekyb3d8bbwe",
+      "name": "Microsoft Whiteboard",
+      "description": "Microsoft Whiteboard is a freeform digital canvas where ideas, content, and people come together.",
+      "version": "22.2104.0.0",
+      "releaseDate": "2025-01-05",
+      "developer": "Microsoft Corporation",
+      "category": "productivity",
+      "rating": 4.5,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/whiteboard-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/Whiteboard-22.2104.0.0.appx",
+      "dependencies": [
+        "Microsoft.VCLibs.140.00_8wekyb3d8bbwe"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/whiteboard-screenshot1.png",
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/whiteboard-screenshot2.png"
+      ]
+    },
+    {
+      "id": "Microsoft.VCLibs.140.00_8wekyb3d8bbwe",
+      "name": "Microsoft Visual C++ Runtime",
+      "description": "The Visual C++ Runtime package is required by apps that are built by using Visual Studio 2015 or later versions.",
+      "version": "14.0.30704.0",
+      "releaseDate": "2024-06-10",
+      "developer": "Microsoft Corporation",
+      "category": "utilities",
+      "rating": 4.0,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vclibs-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/Microsoft.VCLibs.x64.14.00.appx",
+      "dependencies": [],
+      "screenshots": []
+    },
+    {
+      "id": "DevExpress.DiagramDesigner_8wekyb3d8bbwe",
+      "name": "Diagram Designer",
+      "description": "A powerful diagram and flowchart creation tool with extensive shape libraries and collaborative features.",
+      "version": "1.3.0.0",
+      "releaseDate": "2025-03-01",
+      "developer": "DevExpress",
+      "category": "productivity",
+      "rating": 4.4,
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/diagramdesigner-icon.png",
+      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/DiagramDesigner-1.3.0.0.appx",
+      "dependencies": [
+        "Microsoft.VCLibs.140.00_8wekyb3d8bbwe"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/diagramdesigner-screenshot1.png",
+        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/diagramdesigner-screenshot2.png"
+      ]
+    }
+  ]
+}
