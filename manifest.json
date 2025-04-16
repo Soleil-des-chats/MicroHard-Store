@@ -3,20 +3,31 @@
   "lastUpdated": "2025-04-10T14:30:00Z",
   "packages": [
     {
-      "id": "VLC.VLC_8wekyb3d8bbwe",
-      "name": "VLC Media Player",
-      "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
-      "version": "3.5.0.0",
-      "releaseDate": "2024-12-15",
-      "developer": "VideoLAN",
+      "id": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
+      "name": "Minecraft for Windows",
+      "description": "Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.",
+      "version": "1.21.73.01",
+      "releaseDate": "2015-07-14",
+      "developer": "Mojang/Microsoft Studios",
       "category": "entertainment",
-      "rating": 4.7,
-      "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vlc-icon.png",
-      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/VLC-3.5.0.0.appx",
-      "dependencies": [],
+      "rating": 4.8,
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.42664.13510798885735219.3576178f-5830-46af-9837-7194db7781e8.b3e584ef-cdd4-4e1c-ad75-beebd48b7018?q=90&w=177&h=177",
+      "downloadUrl": https://www.dropbox.com/scl/fi/5l3u2dyx0wsq5uxc7ggme/Microsoft.MinecraftUWP_1.21.7301.0_x64__8wekyb3d8bbwe.Appx?rlkey=3fv0w2o2vxl8sr7ntzipw3092&st=8k3kr6w5&dl=1",
+      "dependencies": [
+        "Microsoft.VCLibs.140.00_x64__8wekyb3d8bbwe"
+      ],
       "screenshots": [
-        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vlc-screenshot1.png",
-        "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vlc-screenshot2.png"
+        "https://store-images.s-microsoft.com/image/apps.59196.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.d7e76354-7a3c-41b2-a795-fd544791af69",
+        "https://store-images.s-microsoft.com/image/apps.40856.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.4eefc6c0-8a38-4a23-b219-547fcc435d17",
+        "https://store-images.s-microsoft.com/image/apps.2227.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.da22b613-aa6a-4418-8540-970ae02e11d6",
+        "https://store-images.s-microsoft.com/image/apps.54343.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.6d6f86b5-7cdd-4379-98fe-eaf6845ffc2f",
+        "https://store-images.s-microsoft.com/image/apps.22886.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.1d449b20-230f-4979-87e7-99e11f8f07ca",
+        "https://store-images.s-microsoft.com/image/apps.26110.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.e066d0a9-ff51-4a53-b127-eab6334fa636",
+        "https://store-images.s-microsoft.com/image/apps.55010.13510798885735219.85bdba62-631e-4ad9-9829-189064a9ffee.ea83e0b5-80ce-4e55-b0e1-2970a1b815d0",
+        "https://store-images.s-microsoft.com/image/apps.45617.13510798885735219.0f6a3cb0-970e-490d-b1cc-df45ce230664.419503ae-4c40-40f3-bacc-4de687f61ce0",
+        "https://store-images.s-microsoft.com/image/apps.31393.13510798885735219.0f6a3cb0-970e-490d-b1cc-df45ce230664.215355e4-e3f4-4bea-9c4e-fd63d3a7292b",
+        "https://store-images.s-microsoft.com/image/apps.4255.13510798885735219.ca95f672-1ee5-4940-bba0-e5ff8f28505a.3272cafc-b205-43ed-8bcc-ce8ce11d765e",
+        "https://store-images.s-microsoft.com/image/apps.25677.13510798885735219.5e5b2dcf-9c23-4676-961d-c37c13aaee5f.cf3afc9d-1456-4eb8-b76b-ff24937800a7"
       ]
     },
     {
