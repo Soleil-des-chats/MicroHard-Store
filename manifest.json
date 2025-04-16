@@ -6,7 +6,7 @@
       "id": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
       "name": "Minecraft for Windows",
       "description": "Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.",
-      "version": "1.21.73.01",
+      "version": "1.21.7301.0",
       "releaseDate": "2015-07-14",
       "developer": "Mojang/Microsoft Studios",
       "category": "entertainment",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "id": "Microsoft.VCLibs.140.00_x64__8wekyb3d8bbwe",
+      "id": "Microsoft.VCLibs.140.00_8wekyb3d8bbwe",
       "name": "Microsoft Visual C++ Runtime",
       "description": "The Visual C++ Runtime package is required by apps that are built by using Visual Studio 2015 or later versions.",
       "version": "14.0.33519.0",
