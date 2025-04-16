@@ -89,16 +89,16 @@
       ]
     },
     {
-      "id": "Microsoft.VCLibs.140.00_8wekyb3d8bbwe",
+      "id": "Microsoft.VCLibs.140.00_x64__8wekyb3d8bbwe",
       "name": "Microsoft Visual C++ Runtime",
       "description": "The Visual C++ Runtime package is required by apps that are built by using Visual Studio 2015 or later versions.",
-      "version": "14.0.30704.0",
+      "version": "14.0.33519.0",
       "releaseDate": "2024-06-10",
       "developer": "Microsoft Corporation",
       "category": "utilities",
       "rating": 4.0,
       "thumbnailUrl": "https://raw.githubusercontent.com/your-username/uwp-package-repo/main/assets/vclibs-icon.png",
-      "downloadUrl": "https://github.com/your-username/uwp-package-repo/releases/download/v1.0/Microsoft.VCLibs.x64.14.00.appx",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/ae5k719anwijqwo4kt9hi/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx?rlkey=eg2ftqls25iu3epmsz81r6nn3&st=h2pp4i3c&dl=1",
       "dependencies": [],
       "screenshots": []
     },
